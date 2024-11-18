@@ -1,0 +1,47 @@
+{
+    "Profesores":[
+         {
+            "nombre": "Franco",
+            "apellido": "Gabrielleschi",
+            "materias":[
+                {
+                    "nombre": "NodeJS"
+                },
+                {
+                    "nombre": "Angular"
+                },
+                {
+                    "nombre": "JavaScript"
+                }
+            ]
+         }
+    ],
+
+    "Alumnos":[
+        {
+            "nombre": "Martin",
+            "apellido": "Gonzalez",
+            "Promedio": 8.2
+        }
+    ],
+
+    "Cursos":[
+         {
+            "nombre":"NodeJs",
+            "duracion": 7,
+            "dificultad": "intermedia"
+         },
+         {
+            "nombre":"Angular",
+            "duracion": 7,
+            "dificultad": "intermedia"
+         },
+         {
+            "nombre":"JavaScript",
+            "duracion": 8,
+            "dificultad": "dificil"
+         }
+    ]
+
+
+}
